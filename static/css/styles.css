@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4CAF50; /* Цвет фона навигации */
+    padding: 10px 0;
+}
+
+.navbar ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+}
+.navbar li {
+    display: inline;
+    margin: 0 15px;
+}
+
+.navbar a {
+    color: #ff0000;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.custom-homepage {
+    background-color: #f0f0f0; /* Уникальный цвет фона для главной страницы */
+    padding: 20px;
+    text-align: center;
+}
+
+footer {
+    background-color: #333; /* Цвет фона футера */
+    color: #000000;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.footer-nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.footer-nav li {
+    display: inline;
+    margin: 0 15px;
+}
+
+.footer-nav a {
+    color: white;
+    text-decoration: none;
+}
+.registered {
+    width: 200px;
+    height: 200 px;
+    position: relative;
+    color: #4CAF50;
+}
